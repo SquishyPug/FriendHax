@@ -9,7 +9,7 @@ To Install Friendhax, The Following Things Are Required:
 
 ## Installation
 1. Download the Latest Version of [Friendhax](https://github.com/SquishyPug/FriendHax/releases/tag/v1.0).
-2. Open the build.zip Folder that should have downloaded and open the "build" File.
+2. Open the build.zip Folder that you downloaded and open the "build" File.
 3. Copy the contents from the Folder corresponding to your 3ds's region to the root of your SD Card.
 4. Download the [Homebrew Starter Kit](http://smealum.github.io/3ds/) and copy it's contents to the root of your SD Card.
 5. Download the [Otherapp Payload](http://smealum.github.io/3ds/) corresponding to the Region and Firmware of your console.
