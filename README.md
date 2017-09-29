@@ -18,11 +18,6 @@ To Install Friendhax, The Following Things Are Required:
 ## How To Use Friendhax
 To run [The Homebrew Launcher](http://smealum.github.io/3ds/), Enter Your Friends List and do the Following:
 1. Tap on "Register Friend" and choose "Internet".
-
-![Image](https://orig00.deviantart.net/4cc8/f/2017/272/9/f/top_0001_by_squishypug3ds-dbow87h.jpg)
-
-![Image](https://orig00.deviantart.net/033b/f/2017/272/4/2/bot_0001_by_squishypug3ds-dbow89y.jpg)
-
 2. Enter the following Friend Code: (Coming Soon! Please Be Patient.)
 3. Your 3ds should have booted into The Homebrew Launcher.
 
