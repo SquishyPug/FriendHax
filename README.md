@@ -5,7 +5,7 @@ As of July 2018, this exploit is still under heavy work and will eventually have
 
 ## What You'll Need
 To Install Friendhax, The Following Things Are Required:
-* A 3ds on Firmware 11.6 or Lower
+* A 3ds on Firmware 11.7 or Lower
 * Friend List (You Can Access This From The 3ds's Home Menu)
 
 ## Installation
